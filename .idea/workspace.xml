@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff0a8ac-e5cc-4658-bb48-c641ec8e2d9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/beginner/AreaofaCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/ExtremelyBasic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/SimpleProduct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beginner/SimpleSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/Average1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/Average2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beginner/TimeConversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/peracio/Desktop/projects/competitiveprog"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/peracio/Desktop/projects/competitiveprog&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.SimpleProduct">
-    <configuration name="AreaofaCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.TimeConversion">
+    <configuration name="Average1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="competitiveprog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/AreaofaCircle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/Average1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ExtremelyBasic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Average2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="competitiveprog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/ExtremelyBasic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/Average2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="competitiveprog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/HelloWorld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/Difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SimpleSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeConversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="competitiveprog" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/SimpleSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beginner/TimeConversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TimeConversion" />
+        <item itemvalue="Python.Difference" />
+        <item itemvalue="Python.Average2" />
+        <item itemvalue="Python.Average1" />
         <item itemvalue="Python.SimpleProduct" />
-        <item itemvalue="Python.SimpleSum" />
-        <item itemvalue="Python.AreaofaCircle" />
-        <item itemvalue="Python.HelloWorld" />
-        <item itemvalue="Python.ExtremelyBasic" />
       </list>
     </recent_temporary>
   </component>
