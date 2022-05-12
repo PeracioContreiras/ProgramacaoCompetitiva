@@ -11,18 +11,24 @@ The input consists of a single line, which contains two integers, V and N (1 ≤
 Output
 Your program must output a single line, containing nine integers, representing the numbers of signs that must be counted to ensure that at least 10%, 20%, . . . , 90% of the training has been completed, respectively.
 '''
-from math import floor
+from math import ceil
 voltas, sinais = map(int, input().split())
 
 sinais = (sinais * voltas)/10
 s_soma = sinais
-ared = round(sinais)
+base = sinais
 lista = ''
 
-for n in range(9)
+for n in range(9):
+    ared = round(sinais)
     if ared != sinais:
-        sinais = int(floor(sinais))
-        sinais += 1
-    lista = lista + sinais + ' '
-    sinais = s_soma + s_soma
-    
+        sinais = ceil(sinais)
+    sinais = int(sinais)
+    sinais = str(sinais)
+    lista = lista + sinais
+    if n < 8:
+        lista = lista + ' '
+    sinais = s_soma + base
+    s_soma = sinais
+
+print(lista)
