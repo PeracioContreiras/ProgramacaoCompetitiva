@@ -9,29 +9,31 @@ Output
 Print all the answers with one digit after the decimal point.
 '''
 
-#ln = input().split()
-#A = float(ln[0])
-#B = float(ln[1])
-#C = float(ln[2])
-#D = float(ln[3])
+ln = input().split()
+numb_1 = float(ln[0])
+numb_2 = float(ln[1])
+numb_3 = float(ln[2])
+numb_4 = float(ln[3])
 
-A,B,C,D = map(float,input().split())
-A = (A*2+B*3+C*4+D*1)/10
+#numb_1, numb_2, numb_3, numb_4 = map(float, input().split())
 
-print('Media: {:.1f}'.format(A))
-if A>=7.0:
-    print("Aluno aprovado.")
-elif A<5.0:
-    print("Aluno reprovado.")
-elif A>=5.0 and A<7.0:
-    print("Aluno em exame.")
-    N = float(input())
-    print('Nota do exame: {:.1f}'.format(N))
-    N = (A+N)/2
-    if N>=5.0:
-        print("Aluno aprovado.")
-        print('Media final: {:.1f}'.format(N))
+media = (numb_1*2+numb_2*3+numb_3*4+numb_4)/10
+
+print('Media: {:.1f}'.format(media))
+
+if media >= 7.0:
+    print('Aluno aprovado.')
+elif media < 5.0:
+    print('Aluno reprovado.')
+elif media >= 5.0 and media < 7.0:
+    print('Aluno em exame.')
+    numb_5 = float(input())
+    print('Nota do exame: {:.1f}'.format(numb_5))
+    final_media = (media+numb_5)/2
+    if final_media>=5.0:
+        print('Aluno aprovado.')
+        print('Media final: {:.1f}'.format(final_media))
     else:
-        print("Aluno reprovado.")
-        print('Media final: {:.1f}'.format(N))
+        print('Aluno reprovado.')
+        print('Media final: {:.1f}'.format(final_media))
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff0a8ac-e5cc-4658-bb48-c641ec8e2d9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/beginner/Average3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/Average3.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/Average3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beginner/experimentos.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/experimentos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
