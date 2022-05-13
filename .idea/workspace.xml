@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ff0a8ac-e5cc-4658-bb48-c641ec8e2d9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/beginner/HourForARun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/HourForARum.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/HourForARum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/HourForARum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/experimentos.py" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/experimentos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/peracio/Desktop/projects/competitiveprog&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.HourForARum">
+  <component name="RunManager" selected="Python.experimentos">
     <configuration name="Average3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="competitiveprog" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,10 +149,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.experimentos" />
         <item itemvalue="Python.HourForARum" />
         <item itemvalue="Python.StringInputandOutput" />
         <item itemvalue="Python.Average3" />
-        <item itemvalue="Python.experimentos" />
         <item itemvalue="Python.Snack" />
       </list>
     </recent_temporary>
